@@ -90,17 +90,6 @@
             "desc": "Holdstation is a zksync-based account abstraction solution whose trading platform provides traders with the opportunity to trade multiple assets with up to 500x leverage.a"
         },
         {
-            "index": 5,
-            "title": "Polyhedra",
-            "logo": "/static/ecosystem/e_5.png",
-            "link": "https://www.polyhedra.network/",
-            "categorys": [
-                "Infra",
-                "ZK"
-            ],
-            "desc": "PolyHedra is an infrastructure for Web3 Interoperability, featuring cutting-edge zero-knowledge proof systems."
-        },
-        {
             "index": 6,
             "title": "Kaia",
             "logo": "/static/ecosystem/e_6.png",
@@ -110,17 +99,6 @@
                 "Layer1"
             ],
             "desc": "Klaytn is a highly optimized, BFT-based public blockchain that aims to provide enterprise-grade reliability."
-        },
-        {
-            "index": 7,
-            "title": "TonUP",
-            "logo": "/static/ecosystem/e_7.png",
-            "link": "https://tonup.io/",
-            "categorys": [
-                "DeFi",
-                "Launchpad"
-            ],
-            "desc": "TonUP is a Launchpad on TON. TonUp aims to identify and support groundbreaking projects in the crypto space."
         },
         {
             "index": 8,
@@ -443,18 +421,6 @@
             "logo": "/static/ecosystem/e_36.png",
             "desc": "Bido is a liquid-staking protocol for BTC on the BEVM network, developed akin to Ethereum's Lido. It enables users to earn digital token rewards while keeping their tokens liquid for use in various DeFi applications, supporting activities like collateral, lending, and farming.",
             "link": "https://app.bido.finance/"
-        },
-        {
-            "index": 37,
-            "title": "Scroll",
-            "categorys": [
-                "Infra",
-                "Layer2",
-                "ZK"
-            ],
-            "logo": "/static/ecosystem/e_37.png",
-            "desc": "Scroll is a zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools. It processes transactions off-chain and posts succinct proofs of correctness on-chain, resulting in higher throughput and lower costs compared to the Ethereum base layer.",
-            "link": "https://scroll.io/"
         },
         {
             "index": 38,
