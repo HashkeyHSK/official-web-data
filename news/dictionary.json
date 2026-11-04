@@ -1,4 +1,10 @@
 [ 
+   {
+    "title": "[Announcement] HSK Staking Phase 1 Settlement & Compensation",
+    "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKCHAINANNOUCEMENT.webp",
+    "desc": "Phase 1 of HSK Staking has now matured. Users can proceed with unstaking as per the standard process — there is no need to wait for the compensation payout.",
+    "link": "20261104/HSKStakingPhase1Settlement"
+},
   {
     "title": "[Announcement] HSK Token Release (September 2026)",
     "img": "https://cdn.jsdelivr.net/gh/HashkeyHSK/official-web-data@main/img/HSKTOKENUPDATE.webp",
